@@ -28,7 +28,7 @@ export const storageUnitSizes = [
       "Small items and boxes",
       "Outdoor furniture",
     ],
-    videolink: "https://www.youtube.com/watch?v=MBDhcdm_KeY",
+    videolink: "https://youtu.be/NlKUrVs8yJc",
   },
   {
     id: 2,
@@ -46,7 +46,7 @@ export const storageUnitSizes = [
       "Studio apartment contents",
       "1-2 cargo van loads",
     ],
-    videolink: "https://www.youtube.com/watch?v=MBDhcdm_KeY",
+    videolink: "https://youtu.be/kQSRWkdFt58",
   },
   {
     id: 3,
@@ -63,7 +63,7 @@ export const storageUnitSizes = [
       "Business inventory storage",
       "Approximately 1 ton truck load",
     ],
-    videolink: "https://www.youtube.com/watch?v=MBDhcdm_KeY",
+    videolink: "https://youtu.be/3jH7tQvA-Pw",
   },
   {
     id: 4,
@@ -80,7 +80,7 @@ export const storageUnitSizes = [
       "Large tools and equipment",
       "4-5 ton truck load",
     ],
-    videolink: "https://www.youtube.com/watch?v=MBDhcdm_KeY",
+    videolink: "https://youtu.be/BbcmoQPECJI",
   },
   {
     id: 5,
@@ -91,7 +91,7 @@ export const storageUnitSizes = [
     price: "$60/month",
     description: "Compact storage for personal items and small furniture.",
     items: ["Personal belongings", "Small furniture", "Seasonal items"],
-    videolink: "https://www.youtube.com/watch?v=MBDhcdm_KeY",
+    videolink: "https://youtu.be/ZTOZ-Xtm9NE",
   },
   {
     id: 6,
@@ -106,6 +106,6 @@ export const storageUnitSizes = [
       "Large furniture",
       "Multiple room contents",
     ],
-    videolink: "https://www.youtube.com/watch?v=MBDhcdm_KeY",
+    videolink: "https://youtu.be/3jH7tQvA-Pw",
   },
 ];
